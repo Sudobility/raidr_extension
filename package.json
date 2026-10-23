@@ -1,6 +1,6 @@
 {
   "name": "raidr_extension",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "raidr — capture a web app's traffic and runtime for reconstruction",
   "private": true,
   "type": "module",
@@ -14,10 +14,10 @@
     "@heroicons/react": "^2.2.0",
     "@radix-ui/react-label": "^2.1.8",
     "@radix-ui/react-slot": "^1.2.4",
-    "@sudobility/components": "^5.3.33",
-    "@sudobility/design": "^1.1.58",
-    "@sudobility/raidr_processor": "^0.1.8",
-    "@sudobility/raidr_types": "^0.1.15",
+    "@sudobility/components": "^5.3.38",
+    "@sudobility/design": "^1.1.62",
+    "@sudobility/raidr_processor": "^0.1.9",
+    "@sudobility/raidr_types": "^0.1.16",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "fflate": "^0.8.2",
@@ -43,7 +43,7 @@
   "author": "Sudobility Inc.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnqh/raidr_extension.git"
+    "url": "https://github.com/Sudobility/raidr_extension.git"
   },
   "homepage": "https://github.com/johnqh/raidr_extension#readme"
 }
