@@ -8,8 +8,8 @@
         "@heroicons/react": "~2.2.0",
         "@radix-ui/react-label": "~2.1.17",
         "@radix-ui/react-slot": "~1.5.0",
-        "@sudobility/components": "^5.3.60",
-        "@sudobility/design": "^1.1.68",
+        "@sudobility/components": "^5.3.61",
+        "@sudobility/design": "^1.1.69",
         "@sudobility/raidr_processor": "^0.1.11",
         "@sudobility/raidr_types": "^0.1.18",
         "class-variance-authority": "~0.7.1",
@@ -438,9 +438,9 @@
 
     "@standard-schema/utils": ["@standard-schema/utils@0.3.0", "", {}, "sha512-e7Mew686owMaPJVNNLs55PUvgz371nKgwsc4vxE49zsODpJEnxgxRo2y/OKrqueavXgZNMDVj3DdHFlaSAeU8g=="],
 
-    "@sudobility/components": ["@sudobility/components@5.3.60", "https://npm.pkg.github.com/download/@sudobility/components/5.3.60/fc8a68f9b9950555a9ffe19181b5a4fadd332635", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@revenuecat/purchases-js": "^1.0.0", "@sudobility/design": "^1.1.68", "@sudobility/di": "^1.5.85", "@sudobility/subscription_lib": "^0.0.64", "@sudobility/types": "^1.9.78", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "firebase": "^12.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "recharts": "^3.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-16PT4uu0IvoWvFHu7O8nzsMd3cII8yY9v1RF8iK6kx4oDJib1Pe6G2nojxHrrbomuQcr6kNe03MFqiJnbPcxkQ=="],
+    "@sudobility/components": ["@sudobility/components@5.3.61", "https://npm.pkg.github.com/download/@sudobility/components/5.3.61/7727d7f1cb3e9a5b993c43fb27edb9c576937ce4", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@revenuecat/purchases-js": "^1.0.0", "@sudobility/design": "^1.1.69", "@sudobility/di": "^1.5.85", "@sudobility/subscription_lib": "^0.0.64", "@sudobility/types": "^1.9.78", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "firebase": "^12.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "recharts": "^3.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-t2/wO3C/LhMFfVcJMmEe0Baf/gLlfXQIPDXsXS8zAcU+KrGszU0jqbr/qF7l0XBArSj0olXB5pJ4tWBwomGTzg=="],
 
-    "@sudobility/design": ["@sudobility/design@1.1.68", "https://npm.pkg.github.com/download/@sudobility/design/1.1.68/289478a5caaadcbf38fa9fdec554edde15b3d9d2", { "peerDependencies": { "clsx": ">=2.0.0", "tailwind-merge": ">=2.0.0" } }, "sha512-AT56VZlPkJSgiNSC4Shl1MOXSX2aKJ/rhDsTOsV+l7TGmlHKMH8D+8epE/at2qO9+LZaPNEEm3lANBehZej64A=="],
+    "@sudobility/design": ["@sudobility/design@1.1.69", "https://npm.pkg.github.com/download/@sudobility/design/1.1.69/8dc2caf34fda3cd4ccdf67a6e9aecfa40f013fcd", { "peerDependencies": { "clsx": ">=2.0.0", "tailwind-merge": ">=2.0.0" } }, "sha512-MUW9bSwis7thR9GBhqtil6RzgTZVPymqy4GAqFGDBUX7o1FcfmlhnDWcc4acR2Hf3OqkxHGm9gFuMW83/ufuiA=="],
 
     "@sudobility/di": ["@sudobility/di@1.5.82", "https://npm.pkg.github.com/download/@sudobility/di/1.5.82/78ffa45ee6bd3184dec7edc40f36f9acd3021ba1", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.9.76", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-gu2Uw8HfUvLkeLJJDeY8VFfBgk33mQ0k7dUr6MqdKjfyjsgE7q7QtBtYFo17D76B75ST061GKm1vumdKrfCFww=="],
 
