@@ -10,7 +10,7 @@
         "@radix-ui/react-slot": "~1.5.0",
         "@sudobility/components": "^5.3.66",
         "@sudobility/design": "^1.1.70",
-        "@sudobility/raidr_processor": "^0.1.11",
+        "@sudobility/raidr_processor": "^0.1.12",
         "@sudobility/raidr_types": "^0.1.20",
         "class-variance-authority": "~0.7.1",
         "clsx": "~2.1.1",
@@ -444,7 +444,7 @@
 
     "@sudobility/di": ["@sudobility/di@1.5.82", "https://npm.pkg.github.com/download/@sudobility/di/1.5.82/78ffa45ee6bd3184dec7edc40f36f9acd3021ba1", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.9.76", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-gu2Uw8HfUvLkeLJJDeY8VFfBgk33mQ0k7dUr6MqdKjfyjsgE7q7QtBtYFo17D76B75ST061GKm1vumdKrfCFww=="],
 
-    "@sudobility/raidr_processor": ["@sudobility/raidr_processor@0.1.11", "https://npm.pkg.github.com/download/@sudobility/raidr_processor/0.1.11/7922d03f682e29ff9dd3648ded346504721ac5bc", { "dependencies": { "fflate": "~0.8.3" } }, "sha512-N61jHt2dIZthX8+1on0oJmA6nfsHGJrTs3vZIWvv9xQGOtQwrcgS9UJxoQ089z25WN9tuT7cKetc1TvhflQa6Q=="],
+    "@sudobility/raidr_processor": ["@sudobility/raidr_processor@0.1.12", "https://npm.pkg.github.com/download/@sudobility/raidr_processor/0.1.12/4f3cdd6e6f56886a271273afcf229988e3c083b1", { "dependencies": { "fflate": "~0.8.3" } }, "sha512-euaXD7Tx0sJCgnubP/3Qytc+Qfzd0CZttCNs+nP6Cz/lxYlaxKDpUctFQuzUAlR0HG3ywEdH8ow0bEPa7Fkr6g=="],
 
     "@sudobility/raidr_types": ["@sudobility/raidr_types@0.1.20", "https://npm.pkg.github.com/download/@sudobility/raidr_types/0.1.20/43d769e59d07f115e6ae70f31e175b8c9e6b72bd", { "peerDependencies": { "@sudobility/types": "^1.9.79", "zod": "^4.0.0" } }, "sha512-B7Aw5VvtGvEWu1gsm99wkntcPWrsHxF3/PmJlX59a3DvAPATXNqFqGHGTbtr2cuECO7riHxoZNeQ/u333WVHEA=="],
 
