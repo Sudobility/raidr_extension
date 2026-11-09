@@ -6,11 +6,17 @@ its JavaScript, its source maps, its rendered DOM — and exports it as an
 
 ## Install
 
-Not yet on the Chrome Web Store. Load it unpacked:
+Not yet on the Chrome Web Store. Load it unpacked.
+
+**Prerequisites**: [Bun](https://bun.sh) and Chrome 116+. The `@sudobility/*`
+dependencies resolve from GitHub Packages (see [`.npmrc`](.npmrc)), which is
+private, so `bun install` needs a GitHub token with `read:packages` scope —
+e.g. add `//npm.pkg.github.com/:_authToken=<token>` to your user `~/.npmrc`, or
+set it in the environment — before installing.
 
 ```bash
 bun install
-bun run build     # → dist/
+bun run build     # tsc && vite build → dist/
 ```
 
 Then open `chrome://extensions`, enable Developer mode, and **Load unpacked**
