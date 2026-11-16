@@ -1,6 +1,6 @@
 {
   "name": "raidr_extension",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "description": "raidr — capture a web app's traffic and runtime for reconstruction",
   "private": true,
   "type": "module",
@@ -14,10 +14,10 @@
     "@heroicons/react": "~2.2.0",
     "@radix-ui/react-label": "~2.1.17",
     "@radix-ui/react-slot": "~1.5.0",
-    "@sudobility/components": "^5.3.71",
+    "@sudobility/components": "^5.3.75",
     "@sudobility/design": "^1.1.72",
     "@sudobility/raidr_processor": "^0.1.13",
-    "@sudobility/raidr_types": "^0.1.23",
+    "@sudobility/raidr_types": "^0.1.24",
     "class-variance-authority": "~0.7.1",
     "clsx": "~2.1.1",
     "fflate": "~0.8.3",
@@ -45,5 +45,8 @@
     "type": "git",
     "url": "https://github.com/Sudobility/raidr_extension.git"
   },
-  "homepage": "https://github.com/johnqh/raidr_extension#readme"
+  "homepage": "https://github.com/johnqh/raidr_extension#readme",
+  "peerDependencies": {
+    "@sudobility/types": "^1.11.2"
+  }
 }
